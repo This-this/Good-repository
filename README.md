@@ -1,3 +1,4 @@
 # Good-repository
-this is a Good Repository
-author - Rishit
+This is a Good Repository. 
+<br>
+Author - Rishit
