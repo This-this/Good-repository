@@ -1,2 +1,3 @@
 # Good-repository
-Good Repository
+this is a Good Repository
+author - Rishit
